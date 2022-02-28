@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /document-proposal-management-with-finite-state-machines/",
     "dev": "slidev --open",
     "export": "slidev export"
   },

@@ -2,5 +2,5 @@
 
 cd document-proposal-management-with-finite-state-machines
 npm ci
-npm run build --base /document-proposal-management-with-finite-state-machines/
+npm run build
 cd ..
